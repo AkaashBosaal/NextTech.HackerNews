@@ -1,0 +1,6 @@
+@NextTech.HackerNews_HostAddress = http://localhost:5216
+
+GET {{NextTech.HackerNews_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
